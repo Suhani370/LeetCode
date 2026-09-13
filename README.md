@@ -20,4 +20,12 @@ Solutions to LeetCode problems in C++ with explanations and organized by topic.
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Suhani370/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Suhani370/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Suhani370/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
